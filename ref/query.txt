@@ -1,0 +1,11 @@
+{"isbn": "453-45-79","title": "Angular course", "authors": ["steven james"], "publisher": "arkira james", "year": "2012"}
+
+localhost:8000/api/books-collection?authorsTitleSearch=Reactcourse&isbn=34-231-23&_index=34&_count=8
+
+
+localhost:8000/api/carts-collection
+{"sku": "UGG-BB-PUR-06", "nUnits":"5"}
+
+patch
+localhost:8000/api/cart/3.486190407093429
+{"sku": "453-45-92", "nUnits":"49"}
